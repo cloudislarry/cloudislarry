@@ -1,13 +1,11 @@
 ### Hi👋 My name is Larry
+============================
 
-<!--
-**cloudislarry/cloudislarry** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on Learning DevOps
-- 🌱 I’m currently learning AWS, Docker
-- 👯 I’m looking to collaborate on Cloud / AWS related projects
+DevOps Engineer
+---------------
+* 🔭 I’m currently working on Learning DevOps
+* 🌱 I’m currently learning AWS, Docker
+* 👯 I’m looking to collaborate on Cloud / AWS related projects
 - 🤔 I’m looking for help with ...
 - 💬 Ask me about ...
 - 📫 How to reach me: ...
